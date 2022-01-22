@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ghostcoder76
-- 👀 I’m interested in ...learning cousin by and programming 
+- 👀 I’m interested in ...learning coding and programming 
 - 🌱 I’m currently learning ...cs50x
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...Inkexpressions2@gmail.com 
